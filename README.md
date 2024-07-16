@@ -16,10 +16,11 @@ Para baixar o projeto em sua máquina local, execute o comando abaixo no seu ter
 
 ```bash
 git clone https://github.com/username/repository.git
-
+```
 ### Instale as Dependências
 
 Acesse o diretório do projeto e instale as dependências necessárias utilizando o arquivo 'requirements.txt':
 
 ```bash
 pip install -r requirements.txt
+```
