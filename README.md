@@ -52,7 +52,7 @@ python3 app.py
 
 - Pressione o botão "Stop Recording" na interface ou use a combinação de teclas Ctrl + Alt + S para parar a gravação dos eventos.
 
-###Reproduzir Gravação:
+### Reproduzir Gravação:
 
 - Utilize o botão "Play Recording" na interface ou a combinação de teclas Ctrl + Alt + P para reproduzir os eventos gravados.
 - Ajuste o número de repetições usando o QSpinBox fornecido na interface.
